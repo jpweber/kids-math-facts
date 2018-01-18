@@ -3,7 +3,7 @@ This is a quick CLI app I put together for my 3rd grader to practice multiplicat
 Maybe you have a kid who needs to practice multiplication too!
 
 ## Usage
-`./match-facts` Has one option of `-l` for the length of the test in seconds. Defaualt is '60' if the length '-l' option is not provided. 
+`./match-facts` Has one option of `-l` for the length of the test in seconds. Default is `60` if the length '-l' option is not provided. 
 
 ## Example Run
 ```
